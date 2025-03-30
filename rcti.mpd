@@ -1,1 +1,4 @@
-
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="18", RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id
