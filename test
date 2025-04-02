@@ -1,3 +1,13 @@
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="FIRSTMEDIA",DAAI TV
-http://free.xiptv.x10.bz/anbo/?id=1479
+#EXTINF:-1 group-title="INDONESIA PREMIUM" tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/mentari-tv-b64c27.webp",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+ 
+#EXTINF:-1 group-title="INDONESIA PREMIUM" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/ANTV.jpeg",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://worker-bold-king-f3d4.aimiemah.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
