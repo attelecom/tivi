@@ -18,14 +18,26 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="Test",Coba 2
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
-#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Test",TransTV HD (Transcorp)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"SziYvIpv/Ytcs0p82QbcNQ", "kid":"n7/9H/ITQBaaWhFCvPTdrQ" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Test" tvg-logo="https://telegra.ph/file/d94c1cdf66541be72786b.png" tvg-id="beINSports",beIN Sports
+https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"xSfUpbPUNkMSpOeLnenogA", "kid":"XLBdFMjdRWO5VuN9Cg8Rdw" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Test" tvg-logo="https://telegra.ph/file/8b9be78d45d64af83200c.png" tvg-id="beINSports2",beIN Sports 2
+https://dcqkiaqc3sngm.cloudfront.net/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"ubYV/h3VVgYX3hkdJTwCvA", "kid":"5Uay6K31Toe3u2wM1szC2g" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Test" tvg-logo="https://telegra.ph/file/5e4a76a2f67d30080d63f.png" tvg-id="beINSports3",beIN Sports 3
+https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
