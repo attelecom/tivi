@@ -18,19 +18,34 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="Test",Coba 2
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="beINSport" ch-number=" " tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports", 818 BeINSports
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd1
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="817" ch-number=" " tvg-name="beIN Sports 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports",817 beINSports 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="819" ch-number=" " tvg-name="beIN Sports 3 HD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",819 beINSports 3
-https://linearjitp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd2
+http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd3
+http://160.119.77.116:8081/iptv/hd-bein3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd4
+http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd5
+http://160.119.77.116:8081/iptv/hd-bein5.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd6
+http://160.119.77.116:8081/iptv/hd-bein6.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd7
+http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd8
+http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd9
+http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@HD⚽ArabBeinSport", BeinSport Hd10
+http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
 
