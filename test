@@ -31,7 +31,8 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trall+🇮🇩
 #EXTHTTP:http-referrer=https://www.dailymotion.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://geo.dailymotion.com/player.html?video=x8qckyq
+https://live-b.cf.dmcdn.net/sec2(1Kpqk85dJMgqUZo5jlv1hfOY7wmV4WEy9jP2FH_IVuvW7RBltFgTRA7PCOg26FT47od6AVGKyJwT1Hu0x1rHPqChFGgEcvsBdqD6LoR2HOZq4DAp9HuAo2cTT1w5KUqn)/dm/3/x8qckyq/s/live-720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trans7+🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
