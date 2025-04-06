@@ -31,6 +31,8 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trans7+🇮🇩
 #EXTHTTP:http-referrer=https://www.dailymotion.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+
 https://www.dailymotion.com/video/x8qckyq
 
 https://geo.dailymotion.com/player.html?video=x8qckyq&autoplay=1&mute=1&controls=0&ui-logo=0&ui-start-screen-info=0&loop=1
