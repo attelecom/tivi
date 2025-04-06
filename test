@@ -31,7 +31,7 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trall+🇮🇩
 #EXTHTTP:http-referrer=https://www.dailymotion.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8qckyq
+https://raw.githubusercontent.com/karlfazreen/playlist/43cbcac96255249c6a3c43372fff42d88c86debe/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trans7+🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
