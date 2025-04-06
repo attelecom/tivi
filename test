@@ -28,10 +28,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=189665&extension=
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",AFN R+🇮🇩
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trall+🇮🇩
-#EXTHTTP:http-referrer=https://www.dailymotion.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-b.cf.dmcdn.net/sec2(1Kpqk85dJMgqUZo5jlv1hfOY7wmV4WEy9jP2FH_IVuvW7RBltFgTRA7PCOg26FT47od6AVGKyJwT1Hu0x1rHPqChFGgEcvsBdqD6LoR2HOZq4DAp9HuAo2cTT1w5KUqn)/dm/3/x8qckyq/s/live-720.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans7 HD (Sevenhub)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://live-c.cf.dmcdn.net/sec2(iE6y-8-lIHm8SNy0iZdHrNVjKyFalVCeq2VZjaRULqbNduGlwFaJIPkHzmBS1BDO5mSeRNQSTNyjAVrOcZ6ECKffswl-KGap4FjZHvukjnaaa_1dcfZh9j3VgpfVZq3P)/dm/3/x8qckyq/s/live-720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",Trans7+🇮🇩
