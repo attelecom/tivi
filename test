@@ -64,8 +64,8 @@ https://dusk.biz.id/rp/index.mpd?id=014
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="Local",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=013
-https://dusk.biz.id/rplus/index.mpd?id=013
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=013
+https://dusk.biz.id/rp/index.mpd?id=013
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Local",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -94,8 +94,8 @@ https://dusk.biz.id/rplus/index.mpd?id=023
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Local",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=001
-https://dusk.biz.id/rplus/index.mpd?id=001
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=001
+https://dusk.biz.id/rp/index.mpd?id=001
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
