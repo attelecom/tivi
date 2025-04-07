@@ -78,6 +78,13 @@ https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0b
 
 ==========================================ASIA U17 =================================================================
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/225/351225-SNAPSHOT-m.jpg" group-title="INDONESIA 🇮🇩", NONTON TIMNAS AFC U17 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
+https://dusk.biz.id/rp/index.mpd?id=113
+
+
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS",LIVE EVENT 16 - AFC U17 01
 http://golive.yn.lt/live/afc/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS",LIVE EVENT 17 - AFC U17 02
