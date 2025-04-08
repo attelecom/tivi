@@ -33,9 +33,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="TIMNAS", RCTI2
-http://198.16.64.10:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
-
+###EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="TIMNAS", RCTI2
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_11.jpeg"group-title="TIMNAS",Piala Asia u17
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
 
 ================================== NEW VPLUS ===================================================
 ================================================================================================
