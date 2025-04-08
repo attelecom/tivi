@@ -125,8 +125,8 @@ https://dusk.biz.id/rp/index.mpd?id=203
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="Local",Inews
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=004
-https://dusk.biz.id/rp/index.mpd?id=004
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=204
+https://dusk.biz.id/rp/index.mpd?id=204
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Local",IDX
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
