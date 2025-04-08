@@ -32,6 +32,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; IKAHJEEOKO) ExoPlayerLib/2.15.1
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="TIMNAS",-1 RCTI2
+https://py.doube.eu.org/xinghuo?url=/RCTI/948
+
+
 ================================== NEW VPLUS ===================================================
 ================================================================================================
 #Nasional
