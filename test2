@@ -33,7 +33,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="TIMNAS", SORTSTAR2
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="TIMNAS",-1 RCTI2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
