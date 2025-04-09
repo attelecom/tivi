@@ -176,9 +176,9 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge",Animal Planet
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png" group-title="Knowledge",Love Nature
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png" group-title="Knowledge",Curiosity
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png" group-title="Knowledge",Techstorm
