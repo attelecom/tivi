@@ -1,4 +1,6 @@
-#EXTMU8
+##EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml" $BorpasFileFormat="1" 
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Indonesia",•●★--- Welcome ----★●•
 http://xtv.ooo:8080/suk40003/44585/350876
 #EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 01. ETV Live Event
