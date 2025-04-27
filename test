@@ -54,50 +54,91 @@ https://smart.pendy.dpdns.org/Smart.php?id=JakTV
 ======///======
 
 印尼 Indonesia,#genre#
-TVRI National, http://liveSmart.RobYang.dpdns.org:8278/?id=TVRI
-RCTI, http://liveSmart.RobYang.dpdns.org:8278/?id=Rcti
-Kompass TV, http://liveSmart.RobYang.dpdns.org:8278/?id=Kompass
-Berita Satu, http://liveSmart.RobYang.dpdns.org:8278/?id=BeritaSatu_eko
-
-#EXTINF:-1,tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png" group-title="Smart☠️源",印度尼西亚|Indosiar HD
-http://liveSmart.RobYang.dpdns.org:8278/?id=Indosiar
-Indosiar HD, 
-AnTV, http://liveSmart.RobYang.dpdns.org:8278/?id=Antv
-MNC TV, http://liveSmart.RobYang.dpdns.org:8278/?id=Mnctv
-Trans 7, http://liveSmart.RobYang.dpdns.org:8278/?id=Trans7_eko
-Transtv, http://liveSmart.RobYang.dpdns.org:8278/?id=Transtv
-JTV, http://liveSmart.RobYang.dpdns.org:8278/?id=JTV_eko
-Metro TV, http://liveSmart.RobYang.dpdns.org:8278/?id=metrotv_eko
-Cinemax, http://liveSmart.RobYang.dpdns.org:8278/?id=Cinemax
-SCTV, http://liveSmart.RobYang.dpdns.org:8278/?id=SCTV
-Tvone, http://liveSmart.RobYang.dpdns.org:8278/?id=Tvone
-TVMU, http://liveSmart.RobYang.dpdns.org:8278/?id=TVMU_eko
-GTV, http://liveSmart.RobYang.dpdns.org:8278/?id=Gtv
-RTV, http://liveSmart.RobYang.dpdns.org:8278/?id=Rtv
-Jak TV, http://liveSmart.RobYang.dpdns.org:8278/?id=JakTV
-iNews TV, http://liveSmart.RobYang.dpdns.org:8278/?id=Inewstv
-Daai TV, http://liveSmart.RobYang.dpdns.org:8278/?id=DaaiTV
-Net TV, http://liveSmart.RobYang.dpdns.org:8278/?id=NetTV
-Animax, http://liveSmart.RobYang.dpdns.org:8278/?id=Animax
-EWTN, http://liveSmart.RobYang.dpdns.org:8278/?id=Ewtn
-AlQuran AlKareem, http://liveSmart.RobYang.dpdns.org:8278/?id=AlQuran
-Tawaf TV, http://liveSmart.RobYang.dpdns.org:8278/?id=TawafTV
-Vision Prime, http://liveSmart.RobYang.dpdns.org:8278/?id=VisionPrime
-Muslim TV, http://liveSmart.RobYang.dpdns.org:8278/?id=MuslimTV
-Music TV, http://liveSmart.RobYang.dpdns.org:8278/?id=MusicTV
-Lifestyle&Fashion, http://liveSmart.RobYang.dpdns.org:8278/?id=Lifestyle
-Entertain, http://liveSmart.RobYang.dpdns.org:8278/?id=Entertain
-Hits, http://liveSmart.RobYang.dpdns.org:8278/?id=Hits
-Warner TV, http://liveSmart.RobYang.dpdns.org:8278/?id=WarnerTV
-SCM, http://liveSmart.RobYang.dpdns.org:8278/?id=Weishimovie
-Thrill, http://liveSmart.RobYang.dpdns.org:8278/?id=Thrill
-Fight Sports, http://liveSmart.RobYang.dpdns.org:8278/?id=Fs
-Beinsports 2 HD, http://liveSmart.RobYang.dpdns.org:8278/?id=Bein2hd
-Hits Movie, http://liveSmart.RobYang.dpdns.org:8278/?id=Hitsmovie
-One, http://liveSmart.RobYang.dpdns.org:8278/?id=One_mega
-tvN Movie, http://liveSmart.RobYang.dpdns.org:8278/?id=Tvnmovie
-Celestial Movies HD, http://liveSmart.RobYang.dpdns.org:8278/?id=Celestialindo
-Rock Actions, http://liveSmart.RobYang.dpdns.org:8278/?id=Rockaction
-Rock Entertainment, http://liveSmart.RobYang.dpdns.org:8278/?id=Rockentertain
+#EXTM3U
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/039/147/697/small/southeast-asia-country-map-map-of-southeast-asia-in-multicolor-png.png", group-title="ASIA SERVER"
 
 
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",TVRI National
+https://smart.pendy.dpdns.org/Smartv.php?id=TVRI
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RCTI
+https://smart.pendy.dpdns.org/Smartv.php?id=Rcti
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Kompass TV
+https://smart.pendy.dpdns.org/Smartv.php?id=Kompass
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Berita Satu
+https://smart.pendy.dpdns.org/Smartv.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Indosiar HD
+https://smart.pendy.dpdns.org/Smartv.php?id=Indosiar
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",AnTV
+https://smart.pendy.dpdns.org/Smartv.php?id=Antv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",MNC TV
+https://smart.pendy.dpdns.org/Smartv.php?id=Mnctv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Trans 7
+https://smart.pendy.dpdns.org/Smartv.php?id=Trans7_eko
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Transtv
+https://smart.pendy.dpdns.org/Smartv.php?id=Transtv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",JTV
+https://smart.pendy.dpdns.org/Smartv.php?id=JTV_eko
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Metro TV
+https://smart.pendy.dpdns.org/Smartv.php?id=metrotv_eko
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Cinemax
+https://smart.pendy.dpdns.org/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",SCTV
+https://smart.pendy.dpdns.org/Smartv.php?id=SCTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Tvone
+https://smart.pendy.dpdns.org/Smartv.php?id=Tvone
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",TVMU
+https://smart.pendy.dpdns.org/Smartv.php?id=TVMU_eko
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",GTV
+https://smart.pendy.dpdns.org/Smartv.php?id=Gtv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RTV
+https://smart.pendy.dpdns.org/Smartv.php?id=Rtv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Jak TV
+https://smart.pendy.dpdns.org/Smartv.php?id=JakTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",iNews TV
+https://smart.pendy.dpdns.org/Smartv.php?id=Inewstv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Daai TV
+https://smart.pendy.dpdns.org/Smartv.php?id=DaaiTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Net TV
+https://smart.pendy.dpdns.org/Smartv.php?id=NetTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Animax
+https://smart.pendy.dpdns.org/Smartv.php?id=Animax
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",EWTN
+https://smart.pendy.dpdns.org/Smartv.php?id=Ewtn
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",AlQuran AlKareem
+https://smart.pendy.dpdns.org/Smartv.php?id=AlQuran
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Tawaf TV
+https://smart.pendy.dpdns.org/Smartv.php?id=TawafTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Vision Prime
+https://smart.pendy.dpdns.org/Smartv.php?id=VisionPrime
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Muslim TV
+https://smart.pendy.dpdns.org/Smartv.php?id=MuslimTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Music TV
+https://smart.pendy.dpdns.org/Smartv.php?id=MusicTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Lifestyle&Fashion
+https://smart.pendy.dpdns.org/Smartv.php?id=Lifestyle
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Entertain
+https://smart.pendy.dpdns.org/Smartv.php?id=Entertain
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Hits
+https://smart.pendy.dpdns.org/Smartv.php?id=Hits
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Warner TV
+https://smart.pendy.dpdns.org/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",SCM
+https://smart.pendy.dpdns.org/Smartv.php?id=Weishimovie
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Thrill
+https://smart.pendy.dpdns.org/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Fight Sports
+https://smart.pendy.dpdns.org/Smartv.php?id=Fs
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Beinsports 2 HD
+https://smart.pendy.dpdns.org/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Hits Movie
+https://smart.pendy.dpdns.org/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",One
+https://smart.pendy.dpdns.org/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",tvN Movie
+https://smart.pendy.dpdns.org/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Celestial Movies HD
+https://smart.pendy.dpdns.org/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Rock Actions
+https://smart.pendy.dpdns.org/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Rock Entertainment
+https://smart.pendy.dpdns.org/Smartv.php?id=Rockentertain
