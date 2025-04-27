@@ -1,7 +1,31 @@
-RCTI,http://xn--94q.l5.ca/daili/Smartv.php?id=Rcti
-Kompass TV,http://xn--94q.l5.ca/daili/Smartv.php?id=Kompass
-Berita Satu,http://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_eko
-Indosiar HD,http://xn--94q.l5.ca/daili/Smartv.php?id=Indosiar
-AnTV,http://xn--94q.l5.ca/daili/Smartv.php?id=Antv
-MNC TV,http://xn--94q.l5.ca/daili/Smartv.php?id=Mnctv
-Trans 7,http://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_eko
+#EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml" $BorpasFileFormat="1" 
+
+######################################################
+### PLAYLIST UNTUK KOLEKSI, TIDAK DIPERJUALBELIKAN ###
+###########################$#$$#######################
+
+Silakan gunakan link: https://s.id/DJ-TV
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="SUKAMENAK"
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", RCTI
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rcti
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", Kompass TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kompass
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", Berita Satu
+http://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_eko
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", Indosiar HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Indosiar
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", AnTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Antv
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", MNC TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Mnctv
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", Trans 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_eko
