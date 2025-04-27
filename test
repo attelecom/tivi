@@ -5,61 +5,47 @@
 ### PLAYLIST UNTUK KOLEKSI, TIDAK DIPERJUALBELIKAN ###
 ###########################$#$$#######################
 
-Silakan gunakan link: https://s.id/DJ-TV
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="Smart☠️源"
 
+#EXTINF:-1,tvg-id="马来西亚|Mecca Live HD" tvg-name="马来西亚|Mecca Live HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MECCALIVE.png" group-title="Smart☠️源",马来西亚|Mecca Live HD
+https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
+#EXTINF:-1,tvg-id="马来西亚|Madinah HD" tvg-name="马来西亚|Madinah HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MADINAH.png" group-title="Smart☠️源",马来西亚|Madinah HD
+https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
 #EXTINF:-1,tvg-id="印度尼西亚|TVRI National" tvg-name="印度尼西亚|TVRI National" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVRINATIONAL.png" group-title="Smart☠️源",印度尼西亚|TVRI National
 https://smart.pendy.dpdns.org/Smart.php?id=TVRI
 #EXTINF:-1,tvg-id="印度尼西亚|RCTI" tvg-name="印度尼西亚|RCTI" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|RCTI.png" group-title="Smart☠️源",印度尼西亚|RCTI
 https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-#EXTINF:-1,tvg-id="印度尼西亚|Kompass TV" tvg-name="印度尼西亚|Kompass TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|KOMPASSTV.png" group-title="Smart☠️源",印度尼西亚|Kompass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-#EXTINF:-1,tvg-id="印度尼西亚|Berita Satu" tvg-name="印度尼西亚|Berita Satu" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|BERITASATU.png" group-title="Smart☠️源",印度尼西亚|Berita Satu
-https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-#EXTINF:-1,tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png" group-title="Smart☠️源",印度尼西亚|Indosiar HD
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-#EXTINF:-1,tvg-id="印度尼西亚|AnTV" tvg-name="印度尼西亚|AnTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ANTV.png" group-title="Smart☠️源",印度尼西亚|AnTV
-https://smart.pendy.dpdns.org/Smart.php?id=Antv
 #EXTINF:-1,tvg-id="印度尼西亚|MNC TV" tvg-name="印度尼西亚|MNC TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|MNCTV.png" group-title="Smart☠️源",印度尼西亚|MNC TV
 https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
+#EXTINF:-1,tvg-id="印度尼西亚|GTV" tvg-name="印度尼西亚|GTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|GTV.png" group-title="Smart☠️源",印度尼西亚|GTV
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
+#EXTINF:-1,tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png" group-title="Smart☠️源",印度尼西亚|Indosiar HD
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+#EXTINF:-1,tvg-id="印度尼西亚|SCTV" tvg-name="印度尼西亚|SCTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|SCTV.png" group-title="Smart☠️源",印度尼西亚|SCTV
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+#EXTINF:-1,tvg-id="印度尼西亚|AnTV" tvg-name="印度尼西亚|AnTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ANTV.png" group-title="Smart☠️源",印度尼西亚|AnTV
+https://smart.pendy.dpdns.org/Smart.php?id=Antv
 #EXTINF:-1,tvg-id="印度尼西亚|Trans 7" tvg-name="印度尼西亚|Trans 7" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TRANS7.png" group-title="Smart☠️源",印度尼西亚|Trans 7
 https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
 #EXTINF:-1,tvg-id="印度尼西亚|Transtv" tvg-name="印度尼西亚|Transtv" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TRANSTV.png" group-title="Smart☠️源",印度尼西亚|Transtv
 https://smart.pendy.dpdns.org/Smart.php?id=Transtv
-#EXTINF:-1,tvg-id="印度尼西亚|JTV" tvg-name="印度尼西亚|JTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JTV.png" group-title="Smart☠️源",印度尼西亚|JTV
-https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
-#EXTINF:-1,tvg-id="印度尼西亚|Metro TV" tvg-name="印度尼西亚|Metro TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|METROTV.png" group-title="Smart☠️源",印度尼西亚|Metro TV
-https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-#EXTINF:-1,tvg-id="印度尼西亚|SCTV" tvg-name="印度尼西亚|SCTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|SCTV.png" group-title="Smart☠️源",印度尼西亚|SCTV
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-#EXTINF:-1,tvg-id="印度尼西亚|Tvone" tvg-name="印度尼西亚|Tvone" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVONE.png" group-title="Smart☠️源",印度尼西亚|Tvone
-https://smart.pendy.dpdns.org/Smart.php?id=Tvone
-#EXTINF:-1,tvg-id="印度尼西亚|TVMU" tvg-name="印度尼西亚|TVMU" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVMU.png" group-title="Smart☠️源",印度尼西亚|TVMU
-https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-#EXTINF:-1,tvg-id="印度尼西亚|GTV" tvg-name="印度尼西亚|GTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|GTV.png" group-title="Smart☠️源",印度尼西亚|GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 #EXTINF:-1,tvg-id="印度尼西亚|RTV" tvg-name="印度尼西亚|RTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|RTV.png" group-title="Smart☠️源",印度尼西亚|RTV
 https://smart.pendy.dpdns.org/Smart.php?id=Rtv
-#EXTINF:-1,tvg-id="印度尼西亚|Jak TV" tvg-name="印度尼西亚|Jak TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JAKTV.png" group-title="Smart☠️源",印度尼西亚|Jak TV
-https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-#EXTINF:-1,tvg-id="印度尼西亚|iNews TV" tvg-name="印度尼西亚|iNews TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INEWSTV.png" group-title="Smart☠️源",印度尼西亚|iNews TV
-https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-#EXTINF:-1,tvg-id="印度尼西亚|Daai TV" tvg-name="印度尼西亚|Daai TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|DAAITV.png" group-title="Smart☠️源",印度尼西亚|Daai TV
-https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 #EXTINF:-1,tvg-id="印度尼西亚|Net TV" tvg-name="印度尼西亚|Net TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|NETTV.png" group-title="Smart☠️源",印度尼西亚|Net TV
 https://smart.pendy.dpdns.org/Smart.php?id=NetTV
-#EXTINF:-1,tvg-id="印度尼西亚|EWTN" tvg-name="印度尼西亚|EWTN" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|EWTN.png" group-title="Smart☠️源",印度尼西亚|EWTN
-https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
-#EXTINF:-1,tvg-id="印度尼西亚|AlQuran AlKareem" tvg-name="印度尼西亚|AlQuran AlKareem" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|ALQURANALKAREEM.png" group-title="Smart☠️源",印度尼西亚|AlQuran AlKareem
-https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
-#EXTINF:-1,tvg-id="印度尼西亚|Tawaf TV" tvg-name="印度尼西亚|Tawaf TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TAWAFTV.png" group-title="Smart☠️源",印度尼西亚|Tawaf TV
-https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
-#EXTINF:-1,tvg-id="印度尼西亚|Vision Prime" tvg-name="印度尼西亚|Vision Prime" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|VISIONPRIME.png" group-title="Smart☠️源",印度尼西亚|Vision Prime
-https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Smart☠️源",印度尼西亚|Muslim TV
-https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
-#EXTINF:-1,tvg-id="印度尼西亚|Music TV" tvg-name="印度尼西亚|Music TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|MUSICTV.png" group-title="Smart☠️源",印度尼西亚|Music TV
-https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
-#EXTINF:-1,tvg-id="印度尼西亚|Lifestyle&amp;Fashion" tvg-name="印度尼西亚|Lifestyle&amp;Fashion" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|LIFESTYLE&amp;FASHION.png" group-title="Smart☠️源",印度尼西亚|Lifestyle&amp;Fashion
-https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
+#EXTINF:-1,tvg-id="印度尼西亚|Metro TV" tvg-name="印度尼西亚|Metro TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|METROTV.png" group-title="Smart☠️源",印度尼西亚|Metro TV
+https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
+#EXTINF:-1,tvg-id="印度尼西亚|Tvone" tvg-name="印度尼西亚|Tvone" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVONE.png" group-title="Smart☠️源",印度尼西亚|Tvone
+https://smart.pendy.dpdns.org/Smart.php?id=Tvone
+#EXTINF:-1,tvg-id="印度尼西亚|iNews TV" tvg-name="印度尼西亚|iNews TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INEWSTV.png" group-title="Smart☠️源",印度尼西亚|iNews TV
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
+#EXTINF:-1,tvg-id="印度尼西亚|Kompass TV" tvg-name="印度尼西亚|Kompass TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|KOMPASSTV.png" group-title="Smart☠️源",印度尼西亚|Kompass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Kompass
+#EXTINF:-1,tvg-id="印度尼西亚|Berita Satu" tvg-name="印度尼西亚|Berita Satu" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|BERITASATU.png" group-title="Smart☠️源",印度尼西亚|Berita Satu
+https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
+#EXTINF:-1,tvg-id="印度尼西亚|Daai TV" tvg-name="印度尼西亚|Daai TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|DAAITV.png" group-title="Smart☠️源",印度尼西亚|Daai TV
+https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
+#EXTINF:-1,tvg-id="印度尼西亚|JTV" tvg-name="印度尼西亚|JTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JTV.png" group-title="Smart☠️源",印度尼西亚|JTV
+https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
+#EXTINF:-1,tvg-id="印度尼西亚|Jak TV" tvg-name="印度尼西亚|Jak TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|JAKTV.png" group-title="Smart☠️源",印度尼西亚|Jak TV
+https://smart.pendy.dpdns.org/Smart.php?id=JakTV
