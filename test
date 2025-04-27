@@ -57,11 +57,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=JakTV
 #EXTM3U
 #EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/039/147/697/small/southeast-asia-country-map-map-of-southeast-asia-in-multicolor-png.png", group-title="ASIA SERVER"
 
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RCTI+
+http://10.10.10.5:1228/stv.php?id=Rcti
 
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",TVRI National
 https://smart.pendy.dpdns.org/Smart.php?id=TVRI
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RCTI
-https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Kompass TV
 https://smart.pendy.dpdns.org/Smart.php?id=Kompass
