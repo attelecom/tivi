@@ -16,8 +16,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=TVRI
 #EXTINF:-1,tvg-id="印度尼西亚|RCTI" tvg-name="印度尼西亚|RCTI" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|RCTI.png" group-title="Smart☠️源",印度尼西亚|RCTI
 https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 #EXTINF:-1,tvg-id="印度尼西亚|MNC TV" tvg-name="印度尼西亚|MNC TV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|MNCTV.png" group-title="Smart☠️源",印度尼西亚|MNC TV
-http://smart.pendy.dpdns.org/Smart.php?id=Mnctv&ts=115059_1745855398.ts&token=a2797cab7bde22c0d07335e2156fbf25
-##https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 #EXTINF:-1,tvg-id="印度尼西亚|GTV" tvg-name="印度尼西亚|GTV" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|GTV.png" group-title="Smart☠️源",印度尼西亚|GTV
 https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 #EXTINF:-1,tvg-id="印度尼西亚|Indosiar HD" tvg-name="印度尼西亚|Indosiar HD" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|INDOSIAR.png" group-title="Smart☠️源",印度尼西亚|Indosiar HD
