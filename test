@@ -8,7 +8,7 @@
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="Smart☠️源"
 
 #EXTINF:-1,tvg-id="马来西亚|Mecca Live HD" tvg-name="马来西亚|Mecca Live HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MECCALIVE.png" group-title="Smart☠️源",马来西亚|Mecca Live HD
-http://smart.pendy.dpdns.org/Smart.php?id=quran_mido&ts=113236_1745848372.ts&token=036c513586b25efe42c3dbda40b3f35b
+Smartv.php?id=Indosiar&ts=114004_1745853537.ts
 #https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
 #EXTINF:-1,tvg-id="马来西亚|Madinah HD" tvg-name="马来西亚|Madinah HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MADINAH.png" group-title="Smart☠️源",马来西亚|Madinah HD
 https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
