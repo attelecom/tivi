@@ -8,7 +8,8 @@
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="Smart☠️源"
 
 #EXTINF:-1,tvg-id="马来西亚|Mecca Live HD" tvg-name="马来西亚|Mecca Live HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MECCALIVE.png" group-title="Smart☠️源",马来西亚|Mecca Live HD
-https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
+http://smart.pendy.dpdns.org/Smart.php?id=quran_mido&ts=113236_1745848372.ts&token=036c513586b25efe42c3dbda40b3f35b
+#https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
 #EXTINF:-1,tvg-id="马来西亚|Madinah HD" tvg-name="马来西亚|Madinah HD" tvg-logo="https://epg.112114.xyz/logo/马来西亚|MADINAH.png" group-title="Smart☠️源",马来西亚|Madinah HD
 https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
 #EXTINF:-1,tvg-id="印度尼西亚|TVRI National" tvg-name="印度尼西亚|TVRI National" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|TVRINATIONAL.png" group-title="Smart☠️源",印度尼西亚|TVRI National
