@@ -4,12 +4,15 @@ RCTI
 #EXTINF:-1 ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RCTI.png" group-title="🇮🇩 Nasional" group-logo="", RCTI
 
 MNCTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/MNCTV.png
+#EXTINF:-1 ch-number="2" tvg-id="MNCTV.id" tvg-name="MNCTV"
+tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MNCTV.png" group-title="🇮🇩 Nasional" group-logo="", MNCTV
 
 GTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/GTV.png
+#EXTINF:-1 ch-number="3" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GTV.png" group-title="🇮🇩 Nasional" group-logo="", GTV
 
 INEWS
+#EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
+
 https://github.com/attelecom/tivi/blob/main/tvg-logo/INEWS.png
 
 SCTV
