@@ -20,22 +20,22 @@ INDOSIAR
 #EXTINF:-1 ch-number="6" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional" group-logo="", Indosiar
 
 MOJI
-https://github.com/attelecom/tivi/blob/main/tvg-logo/MOJI.png
+#EXTINF:-1 ch-number="7" tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MOJI.png" group-title="🇮🇩 Nasional" group-logo="", MOJI
 
 MENTARITV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/MENTARI.png
+#EXTINF:-1 ch-number="8" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MENTARI.png" group-title="🇮🇩 Nasional" group-logo="", Mentari TV
 
 TRANSTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TRANSTV.pn
+#EXTINF:-1 ch-number="9" tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANSTV.png" group-title="🇮🇩 Nasional" group-logo="", Trans TV
 
 TRANS7
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TRANS7.png
+#EXTINF:-1 ch-number="10" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TRANS7.png" group-title="🇮🇩 Nasional" group-logo="", Trans 7
 
 CNNINDO
-https://github.com/attelecom/tivi/blob/main/tvg-logo/CNNINDO.png
+#EXTINF:-1 ch-number="11" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/CNNINDO.png" group-title="🇮🇩 Nasional" group-logo="", CNN Indonesia
 
 CNBCINDO
-https://github.com/attelecom/tivi/blob/main/tvg-logo/CNBCINDO.png
+#EXTINF:-1 ch-number="12" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/CNBCINDO.png" group-title="🇮🇩 Nasional" group-logo="", CNBC Indonesia
 
 ANTV
 https://github.com/attelecom/tivi/blob/main/tvg-logo/ANTV.png
