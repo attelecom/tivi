@@ -12,13 +12,12 @@ GTV
 INEWS
 #EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
 
-https://github.com/attelecom/tivi/blob/main/tvg-logo/INEWS.png
 
 SCTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/SCTV.png
+#EXTINF:-1 ch-number="5" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional" group-logo="", SCTV
 
 INDOSIAR
-https://github.com/attelecom/tivi/blob/main/tvg-logo/INDOSIAR.png
+#EXTINF:-1 ch-number="6" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDOSIAR.png" group-title="🇮🇩 Nasional" group-logo="", Indosiar
 
 MOJI
 https://github.com/attelecom/tivi/blob/main/tvg-logo/MOJI.png
@@ -27,7 +26,7 @@ MENTARITV
 https://github.com/attelecom/tivi/blob/main/tvg-logo/MENTARI.png
 
 TRANSTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TRANSTV.png
+https://github.com/attelecom/tivi/blob/main/tvg-logo/TRANSTV.pn
 
 TRANS7
 https://github.com/attelecom/tivi/blob/main/tvg-logo/TRANS7.png
