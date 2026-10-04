@@ -12,7 +12,6 @@ GTV
 INEWS
 #EXTINF:-1 ch-number="4" tvg-id="iNews.HD.id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INEWS.png" group-title="🇮🇩 Nasional" group-logo="", iNews
 
-
 SCTV
 #EXTINF:-1 ch-number="5" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SCTV.png" group-title="🇮🇩 Nasional" group-logo="", SCTV
 
@@ -38,65 +37,64 @@ CNBCINDO
 #EXTINF:-1 ch-number="12" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/CNBCINDO.png" group-title="🇮🇩 Nasional" group-logo="", CNBC Indonesia
 
 ANTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/ANTV.png
+#EXTINF:-1 ch-number="13" tvg-id="ANTV.id" tvg-name="ANTV." tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/ANTV.png" group-title="🇮🇩 Nasional" group-logo="", ANTV
 
 TVONE
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TVONE.png
+#EXTINF:-1 ch-number="14" tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVONE.png" group-title="🇮🇩 Nasional" group-logo="" , TVOne
 
 METROTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/METROTV.png
+#EXTINF:-1 ch-number="15" tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/METROTV.png" group-title="🇮🇩 Nasional" group-logo="", Metro TV
 
 KOMPASTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/KOMPASTV.png
+#EXTINF:-1 ch-number="16" tvg-id="Kompas.TV.id" tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/KOMPASTV.png" group-title="🇮🇩 Nasional" group-logo="", Kompas TV
 
 TVRINAS
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TVRINAS.png
+#EXTINF:-1 ch-number="17" tvg-id="TVRI.id" tvg-name="TVRI Nasional.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRINAS.png" group-title="🇮🇩 Nasional" group-logo="", TVRI Nasional HD
 
 TVRISPORT
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TVRISPORT.png
+#EXTINF:-1 ch-number="18" tvg-id="TVRI Sport.id" tvg-name="TVRI Sport" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRISPORT.png" group-title="🇮🇩 Nasional" group-logo="", TVRI Sport
 
 TVRIWORLD
-https://github.com/attelecom/tivi/blob/main/tvg-logo/TVRIWORLD.png
+#EXTINF:-1 ch-number="19" tvg-id="TVRI World.in" tvg-name="TVRI World" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/TVRIWORLD.png" group-title="🇮🇩 Nasional" group-logo="", TVRI World
 
 RTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/RTV.png
+#EXTINF:-1 ch-number="20" tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/RTV.png" group-title="🇮🇩 Nasional" group-logo="", RTV
 
 MDTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/MDTV.png
+#EXTINF:-1 ch-number="21" tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MDTV.png" group-title="🇮🇩 Nasional" group-logo="", MDTV
 
 GARUDATV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/GARUDATV.png
+#EXTINF:-1 ch-number="22" tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/GARUDATV.png" group-title="🇮🇩 Nasional" group-logo="", Garuda TV
 
 NUSANTARATV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/NUSANTARATV.png
+#EXTINF:-1 ch-number="23" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/NUSANTARATV.png" group-title="🇮🇩 Nasional" group-logo="", Nusantara TV
 
 BTVINDO
-https://github.com/attelecom/tivi/blob/main/tvg-logo/BTVINDO.png
+#EXTINF:-1 ch-number="24" tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BTVINDO.png" group-title="🇮🇩 Nasional" group-logo="", BTV
 
 BERITASATU
-https://github.com/attelecom/tivi/blob/main/tvg-logo/BERITASATU.png
+#EXTINF:-1 ch-number="25" tvg-name="Berita Satu.id" tvg-name="Berita Satu" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BERITASATU.png" group-title="🇮🇩 Nasional" group-logo="", Berita Satu
 
 MAGNA
-https://github.com/attelecom/tivi/blob/main/tvg-logo/MAGNA.png
+#EXTINF:-1 ch-number="26" tvg-id="Magna Channel.id" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/MAGNA.png" group-title="🇮🇩 Nasional" group-logo="", Magna Channel
 
 BNTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/BNTV.png
+#EXTINF:-1 ch-number="27" tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/BNTV.png" group-title="🇮🇩 Nasional" group-logo="", BN Channel
 
 JAWAPOSTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/JAWAPOSTV.png
+#EXTINF:-1 ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/JAWAPOSTV.png" group-title="🇮🇩 Nasional" group-logo="", Jawa Pos TV
 
 SINPOTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/SINPOTV.png
+#EXTINF:-1 ch-number="29" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
 
 VTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/VTV.png
+#EXTINF:-1 ch-number="30" tvg-id="VTV.id" tvg-name="VTV.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/VTV.png" group-title="🇮🇩 Nasional" group-logo="", VTV
 
 OXYGENTV
-https://github.com/attelecom/tivi/blob/main/tvg-logo/OXYGENTV.png
+#EXTINF:-1 ch-number="31" tvg-id="OxygenTV.id" tvg-name="Oxygen TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/OXYGENTV.png" group-title="🇮🇩 Nasional" group-logo="", Oxygen TV
 
 INDONESIANA
-https://github.com/attelecom/tivi/blob/main/tvg-logo/INDONESIANA.png
+#EXTINF:-1 ch-number="32" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/INDONESIANA.png" group-title="🇮🇩 Nasional" group-logo="", Indonesiana
 
 AFN
-https://github.com/attelecom/tivi/blob/main/tvg-logo/AFN.png
-
+#EXTINF:-1 ch-number="33" tvg-name="Asian Food Network" tvg-id="AFN" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/AFN.png" group-title="🇮🇩 Nasional" group-logo="", AFN
