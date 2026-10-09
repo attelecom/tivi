@@ -87,6 +87,9 @@ JAWAPOSTV
 SINPOTV
 #EXTINF:-1 ch-number="29" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINPOTV.png" group-title="🇮🇩 Nasional" group-logo="", SIN PO TV
 
+SINDONEWS
+#EXTINF:-1 ch-number="30" tvg-id="Sindo.News.TV.id" tvg-name"Sindo News TV" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/SINDONEWS.png" group-title="🇮🇩 Nasional" group-logo="", Sindo News TV
+
 VTV
 #EXTINF:-1 ch-number="30" tvg-id="VTV.id" tvg-name="VTV.id" tvg-logo="https://raw.githubusercontent.com/attelecom/tivi/refs/heads/main/tvg-logo/VTV.png" group-title="🇮🇩 Nasional" group-logo="", VTV
 
